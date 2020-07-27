@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  jauth:
+  - apiVersion: v2
+    appVersion: v0.1.1
+    created: "2020-07-27T14:02:59.112095+03:00"
+    description: JAuth helm chart
+    digest: 5d561ec2ba03294234c345cf3bc859ae5cb3c2d572f13723e87a4d33c64a62f4
+    icon: https://jibe.company/assets/icons/android-icon-192x192.png
+    maintainers:
+    - email: developer@jibe.company
+      name: Jibe
+    name: jauth
+    type: application
+    urls:
+    - charts/jauth-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-27T14:02:59.111335+03:00"
